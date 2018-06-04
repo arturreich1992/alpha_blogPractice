@@ -21,6 +21,10 @@ $navbar-default-bg: black;
     text-align:center;
 }
 
+.newcreateA{
+    align:center;
+}
+
 .jumbotron{
     background-image: asset-url('before-creating-wordpress-blog.jpg');
     background-size: cover;
@@ -38,6 +42,8 @@ $navbar-default-bg: black;
 .btn-xlarge{
     font-size: 1.7em;
     background-color: black;
+    position:relative;
+margin-top:320px;
 }
 
 footer {
